@@ -11,4 +11,8 @@
     "package": "bdffpRain",
     "url": "https://github.com/BrunaLab/bdffpRain"
   },
+  {
+    "package": "webchem",
+    "url": "https://github.com/ropensci/webchem"
+  }
 ]
