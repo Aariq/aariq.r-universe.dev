@@ -14,5 +14,9 @@
   {
     "package": "webchem",
     "url": "https://github.com/ropensci/webchem"
+  },
+  {
+    "package": "holodeck",
+    "url": "https://github.com/Aariq/holodeck"
   }
 ]
