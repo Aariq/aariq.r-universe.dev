@@ -26,5 +26,9 @@
   {
     "package": "pkg2",
     "url": "https://github.com/Aariq/monorepo/tree/main/pkg2"
+  },
+  {
+    "package": "monorepo",
+    "url": "https://github.com/Aariq/monorepo"
   }
 ]
