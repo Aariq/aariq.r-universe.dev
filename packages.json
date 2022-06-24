@@ -18,17 +18,5 @@
   {
     "package": "holodeck",
     "url": "https://github.com/Aariq/holodeck"
-  },
-  {
-    "package": "pkg1",
-    "url": "https://github.com/Aariq/monorepo/tree/main/pkg1"
-  },
-  {
-    "package": "pkg2",
-    "url": "https://github.com/Aariq/monorepo/tree/main/pkg2"
-  },
-  {
-    "package": "monorepo",
-    "url": "https://github.com/Aariq/monorepo"
   }
 ]
