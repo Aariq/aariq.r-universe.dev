@@ -18,5 +18,13 @@
   {
     "package": "holodeck",
     "url": "https://github.com/Aariq/holodeck"
+  },
+  {
+    "package": "bumbl",
+    "url": "https://github.com/Aariq/bumbl"
+  },
+  {
+    "package": "azmetr",
+    "url": "https://github.com/cct-datascience/azmetr"
   }
 ]
